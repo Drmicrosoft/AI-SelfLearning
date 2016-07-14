@@ -1,0 +1,17 @@
+
+person 1 "How are you?"
+
+person 2 "I am fine thanks."
+
+person 1 "Hadsasdasdasdow are you?"
+
+person 2 "I am fine thanks."
+
+person 1 "How are yasdasdasdou?"
+
+person 2 "I am fine thanks."
+
+person 1 "How aradsasde you?"
+
+person 2 "I am fine thanks."
+
